@@ -25,7 +25,9 @@
     "url": "https://github.com/nordstrom/artillery-plugin-cloudwatch/issues"
   },
   "homepage": "https://github.com/nordstrom/artillery-plugin-cloudwatch#readme",
-  "dependencies": {},
+  "dependencies": {
+    "debug": "^4.1.1"
+  },
   "devDependencies": {
     "aws-sdk": "^2.654.0",
     "chai": "^3.5.0",
